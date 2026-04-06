@@ -1,0 +1,20 @@
+body
+    nav class=navbar navbar-expand-lg navbar-dark bg-dark shadow-sm
+        div class=container
+            a class=navbar-brand fw-bold href=#inicio
+                span class=brand-markFTspan Feria Tecnológica
+            a
+            button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarNav aria-controls=navbarNav aria-expanded=false aria-label=Mostrar navegación
+                span class=navbar-toggler-iconspan
+            button
+            div class=collapse navbar-collapse id=navbarNav
+                ul class=navbar-nav ms-auto
+                    li class=nav-itema class=nav-link active aria-current=page href=#inicioInicioali
+                    li class=nav-itema class=nav-link href=#sobreSobreali
+                    li class=nav-itema class=nav-link href=#proyectosProyectosali
+                    li class=nav-itema class=nav-link href=#agendaAgendaali
+                    li class=nav-itema class=nav-link href=#contactoContactoali
+                ul
+            div
+        div
+    nav
